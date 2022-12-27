@@ -12,6 +12,12 @@ int main()
     int a,b;
     printf("Enter the value of a and b:");
     scanf("%d%d",&a, &b);
+    printf("\nBitwise And of a and b is:%d",a&b);
+    printf("\nBitwise OR of a and b is:%d",a|b);
+    printf("\nBitwise XOR of a and b is:%d",a^b);
+    printf("\nBitwse compliment of a:%d",~a);
+    printf("\nBitwise shift left of a:%d",2<<a);
+    printf("\nBitwise shift right of b is:%d",b>>1);
     
     return 0;
 }

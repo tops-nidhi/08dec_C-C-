@@ -1,0 +1,41 @@
+1.Arithmatic:-
+    Addition +
+    Substraction -
+    Multiplication *
+    Divition /
+    Modulo % (Return reminder)
+    Increment ++ (Unnary operator)
+    Decrement -- (Unnary Operator)
+
+2.Realtional:-
+    less than <
+    Grater than >
+    less than or equle to <=
+    Grater than or equle to >=
+    Equle to ==
+    Not equle to !=
+
+3.Logical:-
+    Logical AND &&
+    Logical OR ||
+    Logical NOT !
+
+4.Assignmnet | Shorthand Operator:-
+    Assignmnet Addition +=
+    Assignmnet Substraction -=
+    Assignmnet multiple *=
+    Assignmnet Divition /=
+
+5.Size of operator:-
+    sizeof();
+
+6.Conditional | Ternory Operator:-
+    ( /*conditiona*/) ? ('true') : ('False') ;
+
+7.Bitwise Operator:
+    Bitwise AND &
+    Bitwise OR |
+    Bitwise compliment ~
+    Bitwise exclusive or(XOR) ^
+    Bitwise shift left <<
+    Bitwise shift right >>

@@ -12,7 +12,7 @@
     Grater than >
     less than or equle to <=
     Grater than or equle to >=
-    Equle to ==
+    Equle to == (To check both are equle or not)
     Not equle to !=
 
 3.Logical:-

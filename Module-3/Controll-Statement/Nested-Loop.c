@@ -6,7 +6,7 @@ void main()
     {
         for ( j = 0; j <= i; j++) //for column(inner loop)
         {
-            printf("%d ",j);
+            printf("😋 ");
         }
         printf("\n");
     }    

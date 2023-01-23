@@ -1,0 +1,14 @@
+Variable is use to store a value
+
+Types:
+1.Local Variable
+->Define inside the function   
+->Scope of variable is inside the function body only
+
+2.Global Variable
+->Define inside the global section which min outside the function body
+->Scope of variable is int the whole programe
+
+3.Formal parameter
+->Passed as a argument
+->Scope of  variable is you can use it only inside the function

@@ -1,0 +1,20 @@
+Function is a bunch of statement.
+
+Types:
+1.Built-in Function:-
+->Predefine function
+    ex. printf(), scanf(), strcmp(), strrev(),  strlen()
+
+2.UDF(User Define Function):-
+->Which was created by user
+    Types:
+        i).Without return type Without parameter
+        ii).Without return type With parameter
+        iii).With return type Without parameter
+        iv).With return type With parameter
+        v).Recursion(function call it self)
+----------------------------------------------------------
+int main(float argc)
+int - return type
+main - identifier of the function
+float argc -  formla parmeter(argument)

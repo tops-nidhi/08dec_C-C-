@@ -18,10 +18,9 @@ int main()
     {
         for (j = 0; j < 3; j++)
         {
-            printf("\nValue of array[%d][%d] is:%d",i,j,array[i][j]);
+            printf("%d ",array[i][j]);
         }
-        
-    }
-    
+        printf("\n");
+    }    
     return 0;
 }

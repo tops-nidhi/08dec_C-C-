@@ -1,0 +1,6 @@
+                In that class          Inherited Class            Main-Finction
+Public:         Yes                     Yes                         Yes
+Protecte:       Yes                     Yes                         No
+Private:        Yes                     No                          No
+
+->Private default.

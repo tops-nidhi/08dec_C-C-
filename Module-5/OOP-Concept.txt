@@ -1,0 +1,26 @@
+OOP- Object Oriented Programing.
+
+->Bottom to top approch.
+->Compare to POP , OOP is secure.
+->Foolows the object concept.
+
+OOP Concept:
+1.Class:-
+    ->Blue print of the object.
+                OR
+    ->Collection of data member and member function.
+
+2.Object:-
+    ->Instance of the class.
+
+3.Inheritance:-
+    ->Reusablity of code.
+
+4.Abstraction:-
+    ->Hide the background the detail which was unused for the users.
+
+5.Encapsulation:-
+    ->Wrapping up the data.
+
+6.Polymorphism:-
+    ->One name many form.

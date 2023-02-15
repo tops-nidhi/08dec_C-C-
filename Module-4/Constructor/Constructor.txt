@@ -1,0 +1,11 @@
+->Same name of the class.
+->No need to asian a return type, it takes class return type.
+->Constructor is use to create a new memory.
+->No need to call inside the main().
+->Constructor call when we create a object of tat class.
+
+Types:-
+1.Default Constructor
+2.Parametrized Constructor
+3.Copy Constructor
+4.Constructor in derived class

@@ -1,8 +1,8 @@
 OOP- Object Oriented Programing.
 
-->Bottom to top approch.
+->Bottom to top approach.
 ->Compare to POP , OOP is secure.
-->Foolows the object concept.
+->Follows the object concept.
 
 OOP Concept:
 1.Class:-
